@@ -2,3 +2,4 @@ AtlasAtlas_Firstinitial_clustersatlas.p filter=lfs diff=lfs merge=lfs -text
 AtlasAtlas_Firstinitial_clustersclustered_whole_brain.vtp filter=lfs diff=lfs merge=lfs -text
 Atlas/Atlas_First/initial_clusters/clustered_whole_brain.vtp filter=lfs diff=lfs merge=lfs -text
 Atlas/Atlas_First/initial_clusters/clustered_tracts filter=lfs diff=lfs merge=lfs -text
+Atlas/Atlas_First/initial_clusters/clustered_tracts_display_100_percent.mrml filter=lfs diff=lfs merge=lfs -text

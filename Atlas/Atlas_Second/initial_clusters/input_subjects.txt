@@ -1,0 +1,2 @@
+Subject_idx	Subject_ID	filename
+1	First_VTK	/media/brainplan/DATA1/CNsAtlas2024/HCP_CreateAtlasData_OUT/CNsAtlas_new/Atlas/cluster_first/OneVTK/First_VTK.vtk

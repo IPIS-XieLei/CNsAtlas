@@ -2,7 +2,7 @@
 
 ---
 
-Automated Mapping the Pathways of Cranial Nerve II, III, V, and VII/VIII: A Multi-Parametric Multi-Stage Diffusion Tractography Atlas. Submitted to IEEE Transactions on Biomedical Engineering.
+Xie L, Huang J, Zhang J, et al. Automated Mapping the Pathways of Cranial Nerve II, III, V, and VII/VIII: A Multi-Parametric Multi-Stage Diffusion Tractography Atlas[J]. IEEE Transactions on Biomedical Engineering, 2025.
 
 In this work, we present what we believe to be the first
 study to develop a comprehensive diffusion tractography
@@ -71,5 +71,5 @@ Concact
 
 Lei Xie, Zhejiang University of Technology
 
-xielei@zjut.edu.cn
+leix@zjut.edu.cn
 
